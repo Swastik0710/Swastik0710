@@ -25,31 +25,54 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-# 🌐 Connect with me:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="40" height="40" /> &nbsp;&nbsp;I’m currently pursuing B.Tech in Electronics and Communication Engineering <br>
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="25"><b> Connect with me:</b>
 <p align="left">
 <a href="https://linkedin.com/in/swastikbhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastikbhattacharya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@swastikbhattacharya4879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@swastikbhattacharya4879" height="30" width="40" /></a>
+<a href="https://instagram.com/swastikb_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastikb_05" height="30" width="40" /></a>
+<a href="https://x.com/swastikb_05" target="blank"><img align="center" src="https://i.pinimg.com/originals/73/db/02/73db02344af2f927fd361decc424e8b8.png" alt="swastikb_05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Swastikb_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Swastikb_05" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/swastip0d3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swastip0d3" height="30" width="40" /></a>
 </p>
 
     
-# 🖥️ Technical Skills: 
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Technical Skills: </b>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-# 📊 GitHub Profile Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Swastik0710&show_icons=true&locale=en&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true)
-<br/>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Profile Stats: </b>
+<p><img align="center" alt="Swastik0710's GitHub " src="https://stats.quine.sh/Swastik0710/github?theme=dark" href = "https://quine.sh"></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Swastik0710&show_icons=true&locale=en&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swastik0710&theme=radical&hide_border=false&border=true&border_color=ffffff)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swastik0710&theme=transparent)
+
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Swastik0710&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Swastik0710&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> My GitHub Contribution Graph: </h2>
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swastik0710&theme=react-dark)
 <!--START_SECTION:waka-->
