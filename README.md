@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/swastikbhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastikbhattacharya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@swastikbhattacharya4879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@swastikbhattacharya4879" height="30" width="40" /></a>
+<a href="https://discord.com/users/swastik2005" target="blank"><img align="center" src="https://www.svgrepo.com/download/353655/discord-icon.svg" alt="swastik2005" height="30" width="40" /></a>
 <a href="https://instagram.com/swastikb_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastikb_05" height="30" width="40" /></a>
 <a href="https://x.com/swastikb_05" target="blank"><img align="center" src="https://i.pinimg.com/originals/73/db/02/73db02344af2f927fd361decc424e8b8.png" alt="swastikb_05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Swastikb_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Swastikb_05" height="30" width="40" /></a>
