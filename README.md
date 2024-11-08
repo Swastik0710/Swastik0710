@@ -47,6 +47,13 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> Holopin Badges (Hacktober Fest 2k24)</h2>
+
+[![An image of @swastik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swastik05)](https://holopin.io/@swastik05)
+
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Profile Stats: </b>
 <p><img align="center" alt="Swastik0710's GitHub " src="https://stats.quine.sh/Swastik0710/github?theme=dark" href = "https://quine.sh"></p>
 
