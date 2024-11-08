@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture> Holopin Badges (Hacktober Fest 2k24)</h2>
+</picture> Holopin Badges (Hacktoberfest 2k24)</h2>
 
 [![An image of @swastik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swastik05)](https://holopin.io/@swastik05)
 
