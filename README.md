@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/swastik2005" target="blank"><img align="center" src="https://www.svgrepo.com/download/353655/discord-icon.svg" alt="swastik2005" height="30" width="40" /></a>
 <a href="https://instagram.com/swastikb_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swastikb_05" height="30" width="40" /></a>
 <a href="https://x.com/swastikb_05" target="blank"><img align="center" src="https://i.pinimg.com/originals/73/db/02/73db02344af2f927fd361decc424e8b8.png" alt="swastikb_05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/swastik_roni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swastik_roni" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Swastikb_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Swastikb_05" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/swastip0d3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swastip0d3" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/for_crows_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="for_crows_01" height="30" width="40" /></a>
 </p>
 
     
