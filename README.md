@@ -57,6 +57,25 @@ Here are some ideas to get you started:
 
 [![An image of @swastik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swastik05)](https://holopin.io/@swastik05)
 
+# <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="30"> Coding Stats :
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/Swastikb_05/">
+        <img src="https://leetcard.jacoblin.cool/Swastikb_05" alt="LeetCode Stats" height="180"/>
+      </a>
+      <p><b><img src="https://ih1.redbubble.net/image.662995401.2784/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="20"> Click to view my LeetCode profile</b></p>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/swastip0d3/">
+        <img src="https://gfgstatscard.vercel.app/swastip0d3" alt="GFG Stats" width="380"/>
+      </a>
+      <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35">Click to view my GeeksforGeeks profile</b></p>
+    </td>
+  </tr>
+</table>
+
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Profile Stats: </b>
 <p><img align="center" alt="Swastik0710's GitHub " src="https://stats.quine.sh/Swastik0710/github?theme=dark" href = "https://quine.sh"></p>
 
