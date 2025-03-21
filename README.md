@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 </table>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Profile Stats: </b>
-<p><img align="center" alt="Swastik0710's GitHub " src="https://stats.quine.sh/Swastik0710/github?theme=dark" href = "https://quine.sh"></p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)<br/>
 
@@ -86,7 +85,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Swastik0710&theme=radical&hide_border=false&border=true&border_color=ffffff)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Swastik0710&theme=dark&hide_border=false)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swastik0710&theme=transparent)
 
