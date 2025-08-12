@@ -148,5 +148,5 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Swastik0710&label=Profile%20Views&color=0e75b6&style=flat" alt="Swastik0710" />
+  <img src="https://komarev.com/ghpvc/?username=Swastik0710&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Swastik0710" />
 </p>
