@@ -43,15 +43,15 @@ Here are some ideas to get you started:
 
 🌟 **Programming Languages**
 
-| <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"> |
 |:--------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
 | C | Java | HTML | CSS |
 
 🛠️ **Tools Used**
 
-| <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40"> | <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="40"> |
-|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
-| VS Code | GitHub |
+| <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40"> | <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="40"> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"> |
+|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+| VS Code | GitHub | Arduino IDE |
 
 🎨 **Creative Skills**
 
