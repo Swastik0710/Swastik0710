@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 🌟 **Programming Languages**
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"> |
-|:--------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
-| C | Java | HTML | CSS |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"> |
+|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| C | C++ | Java | HTML | CSS | JavaScript |
 
 🛠️ **Tools Used**
 
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Swastik0710&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Swastik0710&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Swastik0710&limit=5&theme=dark&combine_all_yearly_contributions=true)
