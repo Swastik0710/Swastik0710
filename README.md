@@ -84,8 +84,8 @@ Here are some ideas to get you started:
       <p><b><img src="https://ih1.redbubble.net/image.662995401.2784/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="20"> Click to view my LeetCode profile</b></p>
     </td>
     <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/swastip0d3/">
-        <img src="https://gfgstatscard.vercel.app/swastip0d3" alt="GFG Stats" width="380"/>
+      <a href="https://www.geeksforgeeks.org/profile/swastik26ct">
+        <img src="https://gfgstatscard.vercel.app/swastik26ct" alt="GFG Stats" width="380"/>
       </a>
       <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35"> Click to view my GeeksforGeeks profile</b></p>
     </td>
