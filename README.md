@@ -97,11 +97,7 @@ Here are some ideas to get you started:
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Profile Stats: </b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastik0710&show_icons=true&locale=en&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Swastik0710&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats in Short" /><br/>
 </p>
 
 <p align="center">
@@ -110,6 +106,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swastik0710&theme=radical&border=true&border_color=ffffff&include_all_commits=true&count_private=true&layout=compact" alt="Most Commit Language" /><br/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swastik0710&theme=dark" alt="GitHub Productive Time" /><br/>
 </p>
 
 <p align="center">
