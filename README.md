@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <a href="https://leetcode.com/u/Swastikb_05">
-        <img src="https://leetcard.jacoblin.cool/Swastikb_05" alt="LeetCode Stats" height="180"/>
+        <img src="https://leetcard.jacoblin.cool/swastik_coderb" alt="LeetCode Stats" height="180"/>
       </a>
       <p><b><img src="https://ih1.redbubble.net/image.662995401.2784/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="20"> Click to view my LeetCode profile</b></p>
     </td>
